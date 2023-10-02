@@ -27,7 +27,7 @@ All practical examples are written in Python and use the scikit-learn machine le
 scikit-learn, NLTK, and TensorFlow can be installed by following the instructions provided on these websites: http://scikit-learn.org, http://www.nltk.org, and https://www.tensorflow.org.
 
 ## Related Products
-* [Learning Functional Data Structures and Algorithms](https://www.packtpub.com/application-development/learning-functional-data-structures-and-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781785888731)
+# [Learning Functional Data Structures and Algorithms](https://www.packtpub.com/application-development/learning-functional-data-structures-and-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781785888731)
 
 * [Machine Learning using Advanced Algorithms and Visualization in R [Video]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-using-advanced-algorithms-and-visualization-r-vi?utm_source=github&utm_medium=repository&utm_campaign=9781788294980)
 
@@ -35,4 +35,4 @@ scikit-learn, NLTK, and TensorFlow can be installed by following the instruction
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781785889622">https://packt.link/free-ebook/9781785889622 </a> </p>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785889622">https://packt.link/free-ebook/9781785889622 </a> </p> 
